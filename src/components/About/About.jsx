@@ -32,7 +32,7 @@ function About() {
                         <p>Hello, World! I&apos;m Manas, a developer with an interest in everything and a life-long
                             dedication to learning. Find me on VS Code, football turf or near a gaming desk.</p>
                     </div>
-                    <button data-entrance="from-left"><a href="">Github 👾</a></button>
+                    <button data-entrance="from-left"><a href="https://github.com/ManasJhaMJ" target='_blank' >Github 👾</a></button>
                 </div>
             </div>
         </section>

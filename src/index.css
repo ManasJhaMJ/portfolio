@@ -126,7 +126,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60vh;
+  height: 100vh;
 }
 
 .socials-top {
@@ -867,8 +867,9 @@ footer {
   }
 
   #home {
+    margin: 5rem 2rem;
     flex-direction: column-reverse;
-    height: 85vh;
+    height: 100vh;
   }
 
   .socials-top,
@@ -895,7 +896,7 @@ footer {
   }
 
   .home-text-subtitle h3 {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   .home-text-subtitle::before {
